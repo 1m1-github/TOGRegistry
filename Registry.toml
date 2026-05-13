@@ -1,6 +1,6 @@
 name = "TOGRegistry"
 uuid = "5e4adcd5-c399-4ce6-9383-58d4246097f5"
-repo = "https://github.com/1m1-github/TOGRegistry.git"
+repo = "git@github.com:1m1-github/TOGRegistry.git"
 
 [packages]
 11295428-077f-4f85-91e7-f02acc9f1bc4 = { name = "TOGPrivacy", path = "T/TOGPrivacy" }
