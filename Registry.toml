@@ -1,0 +1,5 @@
+name = "TOGRegistry"
+uuid = "5e4adcd5-c399-4ce6-9383-58d4246097f5"
+repo = "https://github.com/1m1-github/TOGRegistry.git"
+
+[packages]
