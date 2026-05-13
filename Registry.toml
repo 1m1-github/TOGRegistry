@@ -28,6 +28,7 @@ be2ccf55-320f-4cf9-a7f1-33931dc8ea12 = { name = "TOGTypst", path = "T/TOGTypst" 
 c9101ee6-f480-4f04-b2e3-e4d672b7c53b = { name = "TOG", path = "T/TOG" }
 d4c73057-c471-4b8c-b1af-85ad29d2a3b0 = { name = "TOGBroadcastBrowser", path = "T/TOGBroadcastBrowser" }
 d82a7266-ecbf-4de4-94ee-583468f75bc2 = { name = "TOGMatrix", path = "T/TOGMatrix" }
+d9ed2a47-5efd-4969-8b6d-00e46e0236e9 = { name = "TOGMain", path = "T/TOGMain" }
 e2f8f2e7-7db2-4418-a39e-2216e388f2df = { name = "TOGRay", path = "T/TOGRay" }
 e9b587c0-12e9-4cbe-ad2f-11c87a054381 = { name = "TOGIntelligence", path = "T/TOGIntelligence" }
 f1fe39fb-6393-41e1-971c-b02c3e510d65 = { name = "TOGCaching", path = "T/TOGCaching" }
