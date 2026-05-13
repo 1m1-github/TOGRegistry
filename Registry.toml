@@ -15,6 +15,7 @@ repo = "https://github.com/1m1-github/TOGRegistry.git"
 af1d9ce1-dab3-4208-a785-3251d27ca748 = { name = "TOGREPL", path = "T/TOGREPL" }
 b2cfa71b-e52f-4128-a186-18ce7f67a068 = { name = "TOGXAI", path = "T/TOGXAI" }
 bb1d05a6-2533-48e7-9207-d1905862d9ea = { name = "TOGIntelligenceHuman", path = "T/TOGIntelligenceHuman" }
+c9101ee6-f480-4f04-b2e3-e4d672b7c53b = { name = "TOG", path = "T/TOG" }
 f1fe39fb-6393-41e1-971c-b02c3e510d65 = { name = "TOGCaching", path = "T/TOGCaching" }
 f24ce740-eac4-403b-aa84-6d398323826e = { name = "TOGLearning", path = "T/TOGLearning" }
 f4cec632-eb7e-43bd-a4c1-cac080e970db = { name = "TOGColor", path = "T/TOGColor" }
