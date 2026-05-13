@@ -18,7 +18,7 @@ Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 [4-7]
 TOGLearning = "f24ce740-eac4-403b-aa84-6d398323826e"
 
-[9-10]
+[9-11]
 LoopOS = "59e1c01a-66d3-4f31-a2af-c2f41340710f"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
