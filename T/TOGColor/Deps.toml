@@ -1,2 +1,12 @@
 [2]
 Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+
+[4]
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+Git = "d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2"
+GitHub = "bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26"
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+TOGLearning = "f24ce740-eac4-403b-aa84-6d398323826e"
+TOGMain = "d9ed2a47-5efd-4969-8b6d-00e46e0236e9"
