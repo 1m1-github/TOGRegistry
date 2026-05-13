@@ -4,6 +4,7 @@ repo = "https://github.com/1m1-github/TOGRegistry.git"
 
 [packages]
 11295428-077f-4f85-91e7-f02acc9f1bc4 = { name = "TOGPrivacy", path = "T/TOGPrivacy" }
+140036e9-dd95-4f86-9a5a-99809899a699 = { name = "TOGgod", path = "T/TOGgod" }
 1b934daf-0caa-4168-a756-278b3bd23fdd = { name = "TOGZMQClient", path = "T/TOGZMQClient" }
 2f8be1b4-0caf-4444-968c-3426b7899264 = { name = "TOGBasicTools", path = "T/TOGBasicTools" }
 37fee73d-ef03-4fc1-b8ee-b96b35d47696 = { name = "TOGDona", path = "T/TOGDona" }
