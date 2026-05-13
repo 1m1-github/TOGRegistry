@@ -4,3 +4,10 @@ GitHub = "bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26"
 LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
+[6]
+Git = "d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2"
+GitHub = "bc5e4493-9b4d-5f90-b8aa-2b2bcaad7a26"
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
