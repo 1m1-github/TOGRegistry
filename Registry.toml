@@ -11,6 +11,7 @@ repo = "https://github.com/1m1-github/TOGRegistry.git"
 4252c4d5-dd2c-4ffa-8887-0b0edb8dbe1e = { name = "TOGPowerOfAttorney", path = "T/TOGPowerOfAttorney" }
 5152f97e-43a2-45f4-8f25-050dac6567e0 = { name = "TOGAdvice", path = "T/TOGAdvice" }
 59e1c01a-66d3-4f31-a2af-c2f41340710f = { name = "LoopOS", path = "L/LoopOS" }
+6c9fa5d0-0542-430f-82c2-cd8289f49ee2 = { name = "TOGMoveOctahedron", path = "T/TOGMoveOctahedron" }
 72627af7-d4be-41d5-ae1d-91b43e08b9fe = { name = "TOGLogging", path = "T/TOGLogging" }
 7a18482f-397a-43d3-bca4-098266640121 = { name = "TOGAnthropic", path = "T/TOGAnthropic" }
 839ba1f0-d901-4918-867d-993cc344f7e1 = { name = "TOGZMQServer", path = "T/TOGZMQServer" }
