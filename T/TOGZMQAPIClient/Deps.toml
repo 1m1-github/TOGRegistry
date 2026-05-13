@@ -1,7 +1,7 @@
-[1-3]
+[1-4]
 TOGZMQ = "9d53f387-cc57-4756-9043-cdf1274bde3f"
 TOGZMQAPIServer = "9d46ef08-7eb0-4375-be84-f8f6ddc49f8f"
 ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
 
-[3]
+[3-4]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
