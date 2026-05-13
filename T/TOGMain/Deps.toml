@@ -1,4 +1,4 @@
-[1-11]
+[1-12]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 TOG = "c9101ee6-f480-4f04-b2e3-e4d672b7c53b"
@@ -9,8 +9,8 @@ TOGgod = "140036e9-dd95-4f86-9a5a-99809899a699"
 [1-2]
 LoopOS = "59e1c01a-66d3-4f31-a2af-c2f41340710f"
 
-[2-11]
+[2-12]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
-[7-11]
+[7-12]
 TOGCommunicationServer = "57b7b16f-cff4-4f2b-ba07-0f472443368a"
