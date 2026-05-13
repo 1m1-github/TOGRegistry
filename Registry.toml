@@ -34,5 +34,6 @@ e9b587c0-12e9-4cbe-ad2f-11c87a054381 = { name = "TOGIntelligence", path = "T/TOG
 f1fe39fb-6393-41e1-971c-b02c3e510d65 = { name = "TOGCaching", path = "T/TOGCaching" }
 f24ce740-eac4-403b-aa84-6d398323826e = { name = "TOGLearning", path = "T/TOGLearning" }
 f4cec632-eb7e-43bd-a4c1-cac080e970db = { name = "TOGColor", path = "T/TOGColor" }
+f57ebfea-fc13-470e-bf1d-87a3357c8218 = { name = "TOGHuman", path = "T/TOGHuman" }
 fce80b97-c5fb-4a1c-bec5-c7fe9f180d45 = { name = "TOGInstall", path = "T/TOGInstall" }
 fdb9b95c-25fa-4492-a90f-35931e1d92fd = { name = "TOGJanet", path = "T/TOGJanet" }
