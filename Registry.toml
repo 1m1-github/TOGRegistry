@@ -18,6 +18,7 @@ repo = "https://github.com/1m1-github/TOGRegistry.git"
 8938e4ce-5c5c-42ac-aa38-58f6e5ea3caa = { name = "TOGZMQServer", path = "T/TOGZMQServer" }
 894673ee-413c-4601-8a2e-415a0e884e29 = { name = "TOG", path = "T/TOG" }
 8b189d11-e89b-4034-ada2-b7d49618cb5d = { name = "TOGRay", path = "T/TOGRay" }
+8e4c26da-8d74-4d91-8eb5-6328a20dd598 = { name = "TOGOmega", path = "T/TOGOmega" }
 99a1b240-057c-4d61-b879-ade0146bce0c = { name = "TOGREPL", path = "T/TOGREPL" }
 9a85759a-e2d6-4eb5-ba00-7f48a432d541 = { name = "LoopOS", path = "L/LoopOS" }
 afe36212-cf87-4c61-af1f-196f295ed07d = { name = "TOGXAI", path = "T/TOGXAI" }
