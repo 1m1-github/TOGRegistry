@@ -16,6 +16,7 @@ repo = "https://github.com/1m1-github/TOGRegistry.git"
 9a85759a-e2d6-4eb5-ba00-7f48a432d541 = { name = "LoopOS", path = "L/LoopOS" }
 afe36212-cf87-4c61-af1f-196f295ed07d = { name = "TOGXAI", path = "T/TOGXAI" }
 ca4dc87f-8132-4d7b-94ac-048606885fda = { name = "TOGLogging", path = "T/TOGLogging" }
+cb78168c-aa21-4c29-bdc5-51c3172deeca = { name = "TOGBroadcastBrowser", path = "T/TOGBroadcastBrowser" }
 cef1c0f6-0c08-4e95-906e-2b73d07538e0 = { name = "TOGCaching", path = "T/TOGCaching" }
 db865f57-0a4c-442e-9c28-0e380b845d13 = { name = "TOGIntelligenceLocal", path = "T/TOGIntelligenceLocal" }
 ed0a0658-a2a4-49d7-aa7c-277a9d6820c0 = { name = "TOGIntelligenceHuman", path = "T/TOGIntelligenceHuman" }
