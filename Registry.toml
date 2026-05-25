@@ -5,3 +5,4 @@ repo = "https://github.com/1m1-github/TOGRegistry.git"
 [packages]
 1c1d7378-2f6c-44c0-88d7-7a23e88bf3e0 = { name = "TOGAdvice", path = "T/TOGAdvice" }
 1df27153-9956-4e1b-b91b-fbaa2595f438 = { name = "TOGPowerOfAttorney", path = "T/TOGPowerOfAttorney" }
+fe9bd503-75ce-4c08-8bd5-2629e4df7c13 = { name = "TOGPrivacy", path = "T/TOGPrivacy" }
