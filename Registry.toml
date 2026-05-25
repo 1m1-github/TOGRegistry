@@ -7,5 +7,6 @@ repo = "https://github.com/1m1-github/TOGRegistry.git"
 1df27153-9956-4e1b-b91b-fbaa2595f438 = { name = "TOGPowerOfAttorney", path = "T/TOGPowerOfAttorney" }
 737b443f-5b68-4fde-ac0f-501ab7f5c9a4 = { name = "TOGInstall", path = "T/TOGInstall" }
 894673ee-413c-4601-8a2e-415a0e884e29 = { name = "TOG", path = "T/TOG" }
+9a85759a-e2d6-4eb5-ba00-7f48a432d541 = { name = "LoopOS", path = "L/LoopOS" }
 ca4dc87f-8132-4d7b-94ac-048606885fda = { name = "TOGLogging", path = "T/TOGLogging" }
 fe9bd503-75ce-4c08-8bd5-2629e4df7c13 = { name = "TOGPrivacy", path = "T/TOGPrivacy" }
