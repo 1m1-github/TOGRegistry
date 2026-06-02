@@ -3,7 +3,7 @@ ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
 
-[16-20]
+[16-21]
 RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
 
 [17]
@@ -14,7 +14,7 @@ ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
 
-[8-20]
+[8-21]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
