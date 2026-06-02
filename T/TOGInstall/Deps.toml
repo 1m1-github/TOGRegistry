@@ -9,6 +9,14 @@ RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
 [17]
 TOGLearning = "67d9d36d-43fb-464e-82e3-4f04d09dacc1"
 
+[30]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
+TOGOmega = "8e4c26da-8d74-4d91-8eb5-6328a20dd598"
+TOGgod = "3cd4964b-de73-4059-a3ed-5bf4fdcd466c"
+
 [6]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
