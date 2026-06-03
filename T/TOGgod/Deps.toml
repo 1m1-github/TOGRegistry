@@ -1,4 +1,4 @@
-[1-5]
+[1-6]
 LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
@@ -11,5 +11,5 @@ TOGOctahedron = "63dbb591-2283-4878-9590-a413da56821f"
 TOGREPL = "99a1b240-057c-4d61-b879-ade0146bce0c"
 TOGZMQClient = "c1d2c9e1-0543-4184-a1aa-e46b4235aa2f"
 
-[5]
+[5-6]
 TOGCommunicationClient = "63208c60-c5c5-4955-8db3-5e63e3da614e"
