@@ -3,7 +3,7 @@ LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
 ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
 
-[4-5]
+[4-6]
 LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
 ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
