@@ -18,14 +18,14 @@ TOGREPL = "99a1b240-057c-4d61-b879-ade0146bce0c"
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
 
-[12-18]
+[12-19]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 TOG = "894673ee-413c-4601-8a2e-415a0e884e29"
 TOGAwaken = "ad6da560-61cf-4870-8d75-c7ac94e30631"
 TOGCommunicationServer = "f05f0ea4-d963-465d-8d2a-69fa7afe5123"
 TOGZMQServer = "8938e4ce-5c5c-42ac-aa38-58f6e5ea3caa"
 
-[15-18]
+[15-19]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 
 [2-10]
