@@ -14,7 +14,7 @@ TOGZMQClient = "c1d2c9e1-0543-4184-a1aa-e46b4235aa2f"
 [5-6]
 TOGCommunicationClient = "63208c60-c5c5-4955-8db3-5e63e3da614e"
 
-[8-9]
+[8-10]
 LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
@@ -22,9 +22,11 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 TOG = "894673ee-413c-4601-8a2e-415a0e884e29"
 TOGAwaken = "ad6da560-61cf-4870-8d75-c7ac94e30631"
 TOGCommunicationClient = "63208c60-c5c5-4955-8db3-5e63e3da614e"
-TOGInstall = "737b443f-5b68-4fde-ac0f-501ab7f5c9a4"
 TOGLearning = "67d9d36d-43fb-464e-82e3-4f04d09dacc1"
 TOGOctahedron = "63dbb591-2283-4878-9590-a413da56821f"
 TOGOmega = "8e4c26da-8d74-4d91-8eb5-6328a20dd598"
 TOGREPL = "99a1b240-057c-4d61-b879-ade0146bce0c"
 TOGZMQClient = "c1d2c9e1-0543-4184-a1aa-e46b4235aa2f"
+
+[8-9]
+TOGInstall = "737b443f-5b68-4fde-ac0f-501ab7f5c9a4"
