@@ -3,3 +3,7 @@ KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 
 [5]
 IntervalTrees = "524e6230-43b7-53ae-be76-1e9e4d08d11b"
+
+[7]
+IntervalTrees = "524e6230-43b7-53ae-be76-1e9e4d08d11b"
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
