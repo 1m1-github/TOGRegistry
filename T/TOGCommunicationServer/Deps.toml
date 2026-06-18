@@ -3,7 +3,7 @@ LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 TOGZMQ = "f4a02697-7cd1-461d-8820-6cd877ce326b"
 ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
 
-[3-5]
+[3-6]
 LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 TOGZMQ = "f4a02697-7cd1-461d-8820-6cd877ce326b"
 ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
