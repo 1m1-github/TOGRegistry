@@ -33,6 +33,7 @@ c69c3676-4036-49f8-9098-6977c221e30c = { name = "TOGIntelligence", path = "T/TOG
 ca4dc87f-8132-4d7b-94ac-048606885fda = { name = "TOGLogging", path = "T/TOGLogging" }
 cb78168c-aa21-4c29-bdc5-51c3172deeca = { name = "TOGBroadcastBrowser", path = "T/TOGBroadcastBrowser" }
 cef1c0f6-0c08-4e95-906e-2b73d07538e0 = { name = "TOGCaching", path = "T/TOGCaching" }
+d9ade570-c399-443a-9f78-256c8ef4baba = { name = "TOGOctahedronBrowser", path = "T/TOGOctahedronBrowser" }
 db865f57-0a4c-442e-9c28-0e380b845d13 = { name = "TOGIntelligenceLocal", path = "T/TOGIntelligenceLocal" }
 ea1adc8e-9b68-4f66-8b34-5fd52bc2a364 = { name = "TOGState", path = "T/TOGState" }
 ed0a0658-a2a4-49d7-aa7c-277a9d6820c0 = { name = "TOGIntelligenceHuman", path = "T/TOGIntelligenceHuman" }
