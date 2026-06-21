@@ -1,8 +1,11 @@
-[1-5]
+[1-6]
 LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 TOGIntelligenceHuman = "ed0a0658-a2a4-49d7-aa7c-277a9d6820c0"
 TOGREPL = "99a1b240-057c-4d61-b879-ade0146bce0c"
 TOGgod = "3cd4964b-de73-4059-a3ed-5bf4fdcd466c"
 
-[4-5]
+[4-6]
 TOGBroadcastBrowser = "cb78168c-aa21-4c29-bdc5-51c3172deeca"
+
+[6]
+TOGOctahedronBrowser = "d9ade570-c399-443a-9f78-256c8ef4baba"
