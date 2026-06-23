@@ -11,19 +11,26 @@ TOGOctahedron = "63dbb591-2283-4878-9590-a413da56821f"
 TOGREPL = "99a1b240-057c-4d61-b879-ade0146bce0c"
 TOGZMQClient = "c1d2c9e1-0543-4184-a1aa-e46b4235aa2f"
 
-[11-24]
+[11-25]
 TOGCommunicationServer = "f05f0ea4-d963-465d-8d2a-69fa7afe5123"
 
-[13-24]
+[13-25]
 TOGZMQ = "f4a02697-7cd1-461d-8820-6cd877ce326b"
 
-[21-24]
+[21-25]
 TOGLogging = "ca4dc87f-8132-4d7b-94ac-048606885fda"
+
+[25]
+TOGCreateClient = "b72ff346-26d4-47cd-8d50-179a4b4ef92c"
+TOGObserveClient = "cc86dced-d6f4-450b-b713-1c07b1c65f7f"
 
 [5-6]
 TOGCommunicationClient = "63208c60-c5c5-4955-8db3-5e63e3da614e"
 
 [8-24]
+TOGZMQClient = "c1d2c9e1-0543-4184-a1aa-e46b4235aa2f"
+
+[8-25]
 LoopOS = "9a85759a-e2d6-4eb5-ba00-7f48a432d541"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
@@ -35,7 +42,6 @@ TOGLearning = "67d9d36d-43fb-464e-82e3-4f04d09dacc1"
 TOGOctahedron = "63dbb591-2283-4878-9590-a413da56821f"
 TOGOmega = "8e4c26da-8d74-4d91-8eb5-6328a20dd598"
 TOGREPL = "99a1b240-057c-4d61-b879-ade0146bce0c"
-TOGZMQClient = "c1d2c9e1-0543-4184-a1aa-e46b4235aa2f"
 
 [8-9]
 TOGInstall = "737b443f-5b68-4fde-ac0f-501ab7f5c9a4"
