@@ -1,3 +1,8 @@
 [1]
 TOGZMQAPIClient = "61579c5e-c86a-4d39-862f-13c65542fb93"
 ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
+
+[3]
+TOG = "894673ee-413c-4601-8a2e-415a0e884e29"
+TOGZMQAPIClient = "61579c5e-c86a-4d39-862f-13c65542fb93"
+ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
