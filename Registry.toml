@@ -34,6 +34,7 @@ c1d2c9e1-0543-4184-a1aa-e46b4235aa2f = { name = "TOGZMQClient", path = "T/TOGZMQ
 c69c3676-4036-49f8-9098-6977c221e30c = { name = "TOGIntelligence", path = "T/TOGIntelligence" }
 ca4dc87f-8132-4d7b-94ac-048606885fda = { name = "TOGLogging", path = "T/TOGLogging" }
 cb78168c-aa21-4c29-bdc5-51c3172deeca = { name = "TOGBroadcastBrowser", path = "T/TOGBroadcastBrowser" }
+cc049f75-0394-46cc-811c-179be433f178 = { name = "TOGCreateServer", path = "T/TOGCreateServer" }
 cef1c0f6-0c08-4e95-906e-2b73d07538e0 = { name = "TOGCaching", path = "T/TOGCaching" }
 d9ade570-c399-443a-9f78-256c8ef4baba = { name = "TOGOctahedronBrowser", path = "T/TOGOctahedronBrowser" }
 db865f57-0a4c-442e-9c28-0e380b845d13 = { name = "TOGIntelligenceLocal", path = "T/TOGIntelligenceLocal" }
