@@ -30,6 +30,7 @@ a5e3d33b-52ce-4684-b123-ffafdf5e0dfc = { name = "TOGMatrix", path = "T/TOGMatrix
 a7fb3c08-b311-47bc-a7ca-6435a2480b27 = { name = "TOGTypst", path = "T/TOGTypst" }
 ad6da560-61cf-4870-8d75-c7ac94e30631 = { name = "TOGAwaken", path = "T/TOGAwaken" }
 afe36212-cf87-4c61-af1f-196f295ed07d = { name = "TOGXAI", path = "T/TOGXAI" }
+b72ff346-26d4-47cd-8d50-179a4b4ef92c = { name = "TOGCreateClient", path = "T/TOGCreateClient" }
 c1d2c9e1-0543-4184-a1aa-e46b4235aa2f = { name = "TOGZMQClient", path = "T/TOGZMQClient" }
 c69c3676-4036-49f8-9098-6977c221e30c = { name = "TOGIntelligence", path = "T/TOGIntelligence" }
 ca4dc87f-8132-4d7b-94ac-048606885fda = { name = "TOGLogging", path = "T/TOGLogging" }
