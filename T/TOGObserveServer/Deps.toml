@@ -4,7 +4,7 @@ TOGOctahedron = "63dbb591-2283-4878-9590-a413da56821f"
 TOGZMQAPIServer = "f3b3c524-0be3-4e51-a4a9-f5c41e69849d"
 ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
 
-[5]
+[5-6]
 TOG = "894673ee-413c-4601-8a2e-415a0e884e29"
 TOGOctahedron = "63dbb591-2283-4878-9590-a413da56821f"
 TOGZMQAPIServer = "f3b3c524-0be3-4e51-a4a9-f5c41e69849d"
